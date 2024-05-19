@@ -1,0 +1,1 @@
+If you want to use it, you will have to adjust the delete buttons coordinates on the code for google photos based on your resolution. There's very few false-positives and false-negatives, deletes about 1000 per hour based on how many videos you have.
